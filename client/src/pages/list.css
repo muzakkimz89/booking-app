@@ -1,0 +1,47 @@
+.listSearch{
+    flex: 1;
+    background-color: #febb02;
+    padding: 10px;
+    border-radius: 10px;
+    position: sticky;
+    top: 10px;
+    height: max-content;
+}
+.lsInput>label{
+    font-size: 12px;
+}
+
+.lsInput>input{
+    width: 100%;
+    font-size: 15px;
+}
+
+.lsInput>span{
+    width: 100%;
+    background-color: white;
+    padding: 3px;
+    font-size: 15px;
+}
+
+.lsOptions{
+    padding: 10px;
+  }
+  
+.lsOptionItem{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    color: #555;
+    font-size: 12px;
+}
+
+.lsOptionInput{
+    width: 100px;
+}
+.lsOptionInputSmall{
+    width: 50px;
+
+}
+
+
+  

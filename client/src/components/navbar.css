@@ -1,0 +1,32 @@
+.navbar{
+    height: 50px;
+    background-color: #003580;
+    width: 100%;
+}
+
+.logo{
+    font-weight: 700;
+    font-size: 24px;
+    width: 144px;
+}
+
+.navButton{
+    margin-left: 20px;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    color: #003580;
+}
+
+.navButton2{
+    border-width: 1px;
+    border-color: white;
+    background-color: transparent;
+    font-size: 15px;
+    padding: 5px 10px;
+}
+
+.navButton2:hover{
+    background-color: rgb(23, 23, 182);
+    transition: 0.2s ease-in-out;
+}
